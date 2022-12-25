@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="175dp"
+    android:padding="16dp"
+    android:background="@color/pink"
+    android:orientation="vertical"
+    android:layout_marginTop="60dp"
+    >
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/flash2"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Welcome to \nMusic Player"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        />
+
+</LinearLayout>

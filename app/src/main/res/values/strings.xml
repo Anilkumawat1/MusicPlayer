@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourites_btn">Favourites</string>
+    <string name="playslist">Playlist</string>
+    <string name="world_of_music">World of Music</string>
+    <string name="song_name">songname</string>
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
